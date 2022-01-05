@@ -36,3 +36,6 @@ class DbConnection:
         except Error as e:
             logging.error("Connection is somehow not established")
             print(e)
+        finally:
+            logging.info("database connection closed now")
+            # return mydb.close()
