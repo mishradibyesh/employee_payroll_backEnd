@@ -9,6 +9,7 @@ class Employee(BaseModel):
     """
     this class contains attributes related to employee details
     """
+    employee_id: int
     employee_name: str
     profile_image: str
     employee_gender: str
