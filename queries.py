@@ -40,8 +40,7 @@ class Functionality:
         if data_list:
             return data_list
         else:
-            raise DataNotFound("for this id either Data is not present in the database or this id is not present in"
-                               " the database")
+            raise DataNotFound("this id is not present in the database")
 
     def add_employee_db(self, employee_id: int, employee_name, profile_image, employee_gender, department, salary,
                         start_date, notes):
@@ -126,7 +125,7 @@ class Functionality:
         param: employee_name
         return: employee_id
         """
+        self.show_employee_data(employee_id)
         query = "delete from employee_details where employee_id = %d" % employee_id
         self.my_cursor.execute(query)
         self.connection.commit()
-        result = self.show_employee_data(employee_id)

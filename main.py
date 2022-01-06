@@ -145,12 +145,12 @@ async def update_employee_gender(employee_id: int, gender: str):
         return {"status": 500, "message": f"Error : {error}"}
 
 
-@app.delete("/delete_person_by_name/{employee_id}")
+@app.delete("/delete_person_by_id/{employee_id}")
 async def delete_employee_by_id(employee_id: int):
     """
     desc: created api to delete one employee to the database
     param: employee class which have all the attributes related to employee
-    return: deleted employee details
+    return: deleted employee details or error
     """
     try:
         function.delete_person_by_id(employee_id)
@@ -164,6 +164,15 @@ async def delete_employee_by_id(employee_id: int):
 
 @app.post("/employee_login")
 async def login_employee(token: str = Header(None)):
-    employee_id = token_for_id.decode_id(token)
-    employee_details = function.show_employee_data(employee_id)
-    return employee_details
+    """
+       desc: created api to log in with token
+       param: token generated at the time of adding employee
+       return: login status
+       """
+    try:
+        employee_id = token_for_id.decode_id(token)
+        employee_details = function.show_employee_data(employee_id)
+        return {"status": 200, "message": "successfully logged in", "data": f"{employee_details}"}
+    except Exception as error:
+        logging.error(f"error caught :{error}")
+        return {"status": 500, "message": f"Error : {error}"}
