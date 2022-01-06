@@ -2,10 +2,11 @@
 @author: Dibyesh Mishra
 @date: 02-01-2022 19:46
 """
-from mysql.connector import connect, Error
-import os
-from dotenv import load_dotenv
 import logging
+import os
+
+from dotenv import load_dotenv
+from mysql.connector import connect, Error
 
 load_dotenv()
 logging.basicConfig(filename="mylog.log", level=logging.DEBUG, format='%(asctime)s %(message)s')
@@ -36,6 +37,3 @@ class DbConnection:
         except Error as e:
             logging.error("Connection is somehow not established")
             print(e)
-        finally:
-            logging.info("database connection closed now")
-            # return mydb.close()

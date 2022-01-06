@@ -492,3 +492,514 @@
 2022-01-05 08:32:01,405 Waiting for application startup.
 2022-01-05 08:32:01,407 Application startup complete.
 2022-01-05 08:32:59,160 updated department of Employee_id 2 
+2022-01-05 08:36:15,176 Connection to database has been established successfully
+2022-01-05 08:36:15,195 Connection to database has been established successfully
+2022-01-05 08:36:15,197 Started server process [9284]
+2022-01-05 08:36:15,198 Waiting for application startup.
+2022-01-05 08:36:15,199 Application startup complete.
+2022-01-05 08:37:36,018 Connection to database has been established successfully
+2022-01-05 08:37:36,035 Connection to database has been established successfully
+2022-01-05 08:37:36,037 Started server process [12908]
+2022-01-05 08:37:36,037 Waiting for application startup.
+2022-01-05 08:37:36,039 Application startup complete.
+2022-01-05 08:44:01,917 Connection to database has been established successfully
+2022-01-05 08:44:01,928 Connection to database has been established successfully
+2022-01-05 08:44:01,930 Started server process [13244]
+2022-01-05 08:44:01,931 Waiting for application startup.
+2022-01-05 08:44:01,932 Application startup complete.
+2022-01-05 08:48:02,812 Connection to database has been established successfully
+2022-01-05 08:48:02,825 Connection to database has been established successfully
+2022-01-05 08:48:57,545 Connection to database has been established successfully
+2022-01-05 08:48:57,560 Connection to database has been established successfully
+2022-01-05 08:48:57,561 Started server process [10016]
+2022-01-05 08:48:57,562 Waiting for application startup.
+2022-01-05 08:48:57,563 Application startup complete.
+2022-01-05 08:53:00,391 Connection to database has been established successfully
+2022-01-05 10:11:44,253 Connection to database has been established successfully
+2022-01-05 10:11:44,262 Started server process [5112]
+2022-01-05 10:11:44,264 Waiting for application startup.
+2022-01-05 10:11:44,265 Application startup complete.
+2022-01-05 10:11:47,269 updated department of Employee_id 2 
+2022-01-05 10:32:40,616 Connection to database has been established successfully
+2022-01-05 10:32:40,624 Started server process [13216]
+2022-01-05 10:32:40,625 Waiting for application startup.
+2022-01-05 10:32:40,626 Application startup complete.
+2022-01-05 11:01:59,608 Connection to database has been established successfully
+2022-01-05 11:01:59,618 Started server process [12740]
+2022-01-05 11:01:59,619 Waiting for application startup.
+2022-01-05 11:01:59,622 Application startup complete.
+2022-01-05 11:23:17,046 Connection to database has been established successfully
+2022-01-05 11:23:17,055 Started server process [8216]
+2022-01-05 11:23:17,056 Waiting for application startup.
+2022-01-05 11:23:17,058 Application startup complete.
+2022-01-05 11:50:40,313 Connection to database has been established successfully
+2022-01-05 11:50:40,318 Started server process [14508]
+2022-01-05 11:50:40,319 Waiting for application startup.
+2022-01-05 11:50:40,651 Application startup complete.
+2022-01-05 14:11:46,177 Connection to database has been established successfully
+2022-01-05 14:11:46,192 Started server process [11952]
+2022-01-05 14:11:46,193 Waiting for application startup.
+2022-01-05 14:11:46,194 Application startup complete.
+2022-01-05 14:12:15,127 updated salary of Employee Details table
+2022-01-05 14:12:30,081 error caught :for this id either Data is not present in the database or this id is not present in the database
+2022-01-05 14:42:36,767 Connection to database has been established successfully
+2022-01-05 14:42:36,772 Started server process [11144]
+2022-01-05 14:42:36,773 Waiting for application startup.
+2022-01-05 14:42:36,773 Application startup complete.
+2022-01-05 14:42:47,283 error caught :%d format: a number is required, not str
+2022-01-05 14:43:20,934 Connection to database has been established successfully
+2022-01-05 14:43:20,939 Started server process [1276]
+2022-01-05 14:43:20,939 Waiting for application startup.
+2022-01-05 14:43:20,940 Application startup complete.
+2022-01-05 14:43:23,448 deleted employee by using Employee_id 22
+2022-01-05 14:48:37,549 Connection to database has been established successfully
+2022-01-05 14:48:37,555 Started server process [4588]
+2022-01-05 14:48:37,555 Waiting for application startup.
+2022-01-05 14:48:37,556 Application startup complete.
+2022-01-05 14:49:01,008 error caught :1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''hjj'' at line 1
+2022-01-05 14:50:58,447 Connection to database has been established successfully
+2022-01-05 14:50:58,452 Started server process [2676]
+2022-01-05 14:50:58,453 Waiting for application startup.
+2022-01-05 14:50:58,454 Application startup complete.
+2022-01-05 14:51:28,003 error caught :1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''hjj'' at line 1
+2022-01-05 15:00:03,703 Connection to database has been established successfully
+2022-01-05 15:00:03,708 Started server process [10236]
+2022-01-05 15:00:03,708 Waiting for application startup.
+2022-01-05 15:00:03,710 Application startup complete.
+2022-01-05 15:00:05,202 error caught :1146 (42S02): Table 'employee_payroll.hjj' doesn't exist
+2022-01-05 15:00:39,898 Successfully retrieved  Employee Details table
+2022-01-05 15:02:19,055 Successfully retrieved  Employee Details table
+2022-01-05 15:02:26,693 error caught :for this id either Data is not present in the database or this id is not present in the database
+2022-01-05 15:03:12,641 updated gender of Employee_id 3 
+2022-01-05 15:03:54,253 updated department of Employee_id 2 
+2022-01-05 15:04:06,999 updated department of Employee_id 3 
+2022-01-05 15:04:11,154 error caught :for this id either Data is not present in the database or this id is not present in the database
+2022-01-05 15:05:02,508 Connection to database has been established successfully
+2022-01-05 15:05:02,516 Started server process [10688]
+2022-01-05 15:05:02,516 Waiting for application startup.
+2022-01-05 15:05:02,518 Application startup complete.
+2022-01-05 15:05:28,079 updated name of Employee_id 2 in the table
+2022-01-05 15:07:32,151 Connection to database has been established successfully
+2022-01-05 15:07:32,161 Started server process [5052]
+2022-01-05 15:07:32,162 Waiting for application startup.
+2022-01-05 15:07:32,163 Application startup complete.
+2022-01-05 15:07:36,750 updated name of Employee_id 2 in the table
+2022-01-05 15:08:53,594 updated profile photo of Employee_id 2 
+2022-01-05 15:13:25,398 Successfully added Employee Details into table
+2022-01-05 17:27:37,822 Connection to database has been established successfully
+2022-01-05 17:27:37,829 Started server process [10528]
+2022-01-05 17:27:37,830 Waiting for application startup.
+2022-01-05 17:27:37,831 Application startup complete.
+2022-01-05 17:37:29,692 Successfully added Employee Details into table
+2022-01-05 19:11:59,778 Successfully retrieved  Employee Details table
+2022-01-05 19:12:21,846 Successfully retrieved  Employee Details table
+2022-01-05 21:45:58,867 Connection to database has been established successfully
+2022-01-05 21:45:58,907 Started server process [7752]
+2022-01-05 21:45:58,907 Waiting for application startup.
+2022-01-05 21:45:58,910 Application startup complete.
+2022-01-05 21:46:40,201 error caught :%d format: a number is required, not str
+2022-01-05 21:47:25,510 Connection to database has been established successfully
+2022-01-05 21:47:25,584 Started server process [1428]
+2022-01-05 21:47:25,586 Waiting for application startup.
+2022-01-05 21:47:25,591 Application startup complete.
+2022-01-05 21:47:28,017 error caught :%d format: a number is required, not str
+2022-01-05 21:49:39,857 Connection to database has been established successfully
+2022-01-05 21:49:39,933 Started server process [5052]
+2022-01-05 21:49:39,935 Waiting for application startup.
+2022-01-05 21:49:39,944 Application startup complete.
+2022-01-05 21:49:43,388 error caught :%d format: a number is required, not type
+2022-01-05 21:55:21,849 Connection to database has been established successfully
+2022-01-05 21:55:21,906 Started server process [8324]
+2022-01-05 21:55:21,907 Waiting for application startup.
+2022-01-05 21:55:21,914 Application startup complete.
+2022-01-05 21:55:55,461 error caught :%d format: a number is required, not type
+2022-01-05 21:56:04,484 error caught :%d format: a number is required, not type
+2022-01-05 21:56:20,496 error caught :%d format: a number is required, not type
+2022-01-05 21:58:20,943 Connection to database has been established successfully
+2022-01-05 21:58:20,977 Started server process [584]
+2022-01-05 21:58:20,978 Waiting for application startup.
+2022-01-05 21:58:20,980 Application startup complete.
+2022-01-05 21:58:26,640 error caught :%d format: a number is required, not type
+2022-01-05 21:58:38,879 Connection to database has been established successfully
+2022-01-05 21:58:38,915 Started server process [1152]
+2022-01-05 21:58:38,916 Waiting for application startup.
+2022-01-05 21:58:38,918 Application startup complete.
+2022-01-05 21:58:43,519 error caught :%d format: a number is required, not type
+2022-01-05 21:59:35,321 Connection to database has been established successfully
+2022-01-05 21:59:35,361 Started server process [5824]
+2022-01-05 21:59:35,362 Waiting for application startup.
+2022-01-05 21:59:35,366 Application startup complete.
+2022-01-05 21:59:37,648 Successfully added Employee Details into table
+2022-01-05 22:00:56,030 Connection to database has been established successfully
+2022-01-05 22:00:56,095 Started server process [1464]
+2022-01-05 22:00:56,097 Waiting for application startup.
+2022-01-05 22:00:56,103 Application startup complete.
+2022-01-05 22:01:29,928 Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 226, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 159, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\.\main.py", line 167, in login_employee
+    employee_id = token.decode_id(generated_token)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\.\token_for_id.py", line 15, in decode_id
+    payload = jwt.decode(token_id, "secret", algorithms=["HS256"])
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jwt.py", line 119, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jwt.py", line 90, in decode_complete
+    decoded = api_jws.decode_complete(
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jws.py", line 149, in decode_complete
+    payload, signing_input, header, signature = self._load(jwt)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jws.py", line 187, in _load
+    raise DecodeError(f"Invalid token type. Token must be a {bytes}")
+jwt.exceptions.DecodeError: Invalid token type. Token must be a <class 'bytes'>
+2022-01-05 22:02:51,646 Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 226, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 159, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\.\main.py", line 167, in login_employee
+    employee_id = token.decode_id(generated_token)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\.\token_for_id.py", line 15, in decode_id
+    payload = jwt.decode(token_id, "secret", algorithms=["HS256"])
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jwt.py", line 119, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jwt.py", line 90, in decode_complete
+    decoded = api_jws.decode_complete(
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jws.py", line 149, in decode_complete
+    payload, signing_input, header, signature = self._load(jwt)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jws.py", line 187, in _load
+    raise DecodeError(f"Invalid token type. Token must be a {bytes}")
+jwt.exceptions.DecodeError: Invalid token type. Token must be a <class 'bytes'>
+2022-01-05 22:05:16,148 Connection to database has been established successfully
+2022-01-05 22:05:16,182 Started server process [3912]
+2022-01-05 22:05:16,183 Waiting for application startup.
+2022-01-05 22:05:16,187 Application startup complete.
+2022-01-05 22:06:25,032 Connection to database has been established successfully
+2022-01-05 22:06:25,105 Started server process [1868]
+2022-01-05 22:06:25,107 Waiting for application startup.
+2022-01-05 22:06:25,112 Application startup complete.
+2022-01-05 22:06:25,882 Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 226, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 159, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\.\main.py", line 167, in login_employee
+    employee_id = function.decode_id(token)
+AttributeError: 'Functionality' object has no attribute 'decode_id'
+2022-01-05 22:06:40,134 Shutting down
+2022-01-05 22:06:40,241 Waiting for application shutdown.
+2022-01-05 22:06:40,241 Application shutdown complete.
+2022-01-05 22:06:40,242 Finished server process [1868]
+2022-01-05 22:08:15,882 Connection to database has been established successfully
+2022-01-05 22:08:15,915 Started server process [3892]
+2022-01-05 22:08:15,916 Waiting for application startup.
+2022-01-05 22:08:15,919 Application startup complete.
+2022-01-05 22:08:19,704 Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 226, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 159, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\.\main.py", line 167, in login_employee
+    employee_id = token_for_id.decode_id(token)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\.\token_for_id.py", line 15, in decode_id
+    payload = jwt.decode(token_id, "secret", algorithms=["HS256"])
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jwt.py", line 119, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jwt.py", line 90, in decode_complete
+    decoded = api_jws.decode_complete(
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jws.py", line 149, in decode_complete
+    payload, signing_input, header, signature = self._load(jwt)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jws.py", line 187, in _load
+    raise DecodeError(f"Invalid token type. Token must be a {bytes}")
+jwt.exceptions.DecodeError: Invalid token type. Token must be a <class 'bytes'>
+2022-01-05 22:08:46,458 Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 226, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 159, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\.\main.py", line 167, in login_employee
+    employee_id = token_for_id.decode_id(token)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\.\token_for_id.py", line 15, in decode_id
+    payload = jwt.decode(token_id, "secret", algorithms=["HS256"])
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jwt.py", line 119, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jwt.py", line 90, in decode_complete
+    decoded = api_jws.decode_complete(
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jws.py", line 149, in decode_complete
+    payload, signing_input, header, signature = self._load(jwt)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jws.py", line 187, in _load
+    raise DecodeError(f"Invalid token type. Token must be a {bytes}")
+jwt.exceptions.DecodeError: Invalid token type. Token must be a <class 'bytes'>
+2022-01-05 22:08:53,049 Shutting down
+2022-01-05 22:09:03,526 Connection to database has been established successfully
+2022-01-05 22:09:03,559 Started server process [4228]
+2022-01-05 22:09:03,560 Waiting for application startup.
+2022-01-05 22:09:03,563 Application startup complete.
+2022-01-05 22:09:08,753 Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 226, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 159, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\.\main.py", line 167, in login_employee
+    employee_id = token_for_id.decode_id(token)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\.\token_for_id.py", line 15, in decode_id
+    payload = jwt.decode(token_id, "secret", algorithms=["HS256"])
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jwt.py", line 119, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jwt.py", line 90, in decode_complete
+    decoded = api_jws.decode_complete(
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jws.py", line 149, in decode_complete
+    payload, signing_input, header, signature = self._load(jwt)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jws.py", line 187, in _load
+    raise DecodeError(f"Invalid token type. Token must be a {bytes}")
+jwt.exceptions.DecodeError: Invalid token type. Token must be a <class 'bytes'>
+2022-01-05 22:10:25,480 Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 373, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\uvicorn\middleware\proxy_headers.py", line 75, in __call__
+    return await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\applications.py", line 208, in __call__
+    await super().__call__(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\applications.py", line 112, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 181, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\middleware\errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 82, in __call__
+    raise exc
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 656, in __call__
+    await route.handle(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 259, in handle
+    await self.app(scope, receive, send)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\starlette\routing.py", line 61, in app
+    response = await func(request)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 226, in app
+    raw_response = await run_endpoint_function(
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\fastapi\routing.py", line 159, in run_endpoint_function
+    return await dependant.call(**values)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\.\main.py", line 167, in login_employee
+    employee_id = token_for_id.decode_id(token)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\.\token_for_id.py", line 15, in decode_id
+    payload = jwt.decode(token_id, "secret", algorithms=["HS256"])
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jwt.py", line 119, in decode
+    decoded = self.decode_complete(jwt, key, algorithms, options, **kwargs)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jwt.py", line 90, in decode_complete
+    decoded = api_jws.decode_complete(
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jws.py", line 152, in decode_complete
+    self._verify_signature(signing_input, header, signature, key, algorithms)
+  File "C:\Users\dibye\PycharmProjects\Employee_payroll_backend\venv\lib\site-packages\jwt\api_jws.py", line 239, in _verify_signature
+    raise InvalidSignatureError("Signature verification failed")
+jwt.exceptions.InvalidSignatureError: Signature verification failed
+2022-01-05 22:10:54,387 Connection to database has been established successfully
+2022-01-05 22:10:54,474 Started server process [8828]
+2022-01-05 22:10:54,475 Waiting for application startup.
+2022-01-05 22:10:54,485 Application startup complete.
+2022-01-05 22:20:53,162 Connection to database has been established successfully
+2022-01-05 22:20:53,207 Started server process [13160]
+2022-01-05 22:20:53,209 Waiting for application startup.
+2022-01-05 22:20:53,212 Application startup complete.
+2022-01-05 22:21:08,439 Successfully added Employee Details into table
+2022-01-05 22:42:14,948 Connection to database has been established successfully
+2022-01-05 22:42:14,990 Started server process [5364]
+2022-01-05 22:42:14,990 Waiting for application startup.
+2022-01-05 22:42:14,991 Application startup complete.
+2022-01-06 08:03:01,689 Connection to database has been established successfully
+2022-01-06 08:03:01,716 Started server process [1500]
+2022-01-06 08:03:01,717 Waiting for application startup.
+2022-01-06 08:03:01,718 Application startup complete.
+2022-01-06 08:03:05,435 Shutting down
+2022-01-06 08:03:05,545 Waiting for application shutdown.
+2022-01-06 08:03:05,545 Application shutdown complete.
+2022-01-06 08:03:05,547 Finished server process [1500]
+2022-01-06 08:03:24,876 Connection to database has been established successfully
+2022-01-06 08:03:24,889 Started server process [16892]
+2022-01-06 08:03:24,889 Waiting for application startup.
+2022-01-06 08:03:24,892 Application startup complete.
+2022-01-06 08:04:45,065 Connection to database has been established successfully
+2022-01-06 08:04:45,087 Started server process [15764]
+2022-01-06 08:04:45,087 Waiting for application startup.
+2022-01-06 08:04:45,088 Application startup complete.
+2022-01-06 08:08:46,467 Connection to database has been established successfully
+2022-01-06 08:08:46,483 Started server process [11636]
+2022-01-06 08:08:46,483 Waiting for application startup.
+2022-01-06 08:08:46,484 Application startup complete.
+2022-01-06 08:10:22,391 Connection to database has been established successfully
+2022-01-06 08:10:22,412 Started server process [18020]
+2022-01-06 08:10:22,412 Waiting for application startup.
+2022-01-06 08:10:22,413 Application startup complete.
+2022-01-06 08:11:39,114 Connection to database has been established successfully
+2022-01-06 08:11:39,134 Started server process [18792]
+2022-01-06 08:11:39,135 Waiting for application startup.
+2022-01-06 08:11:39,135 Application startup complete.
+2022-01-06 08:13:21,008 Connection to database has been established successfully
+2022-01-06 08:13:21,027 Started server process [16144]
+2022-01-06 08:13:21,028 Waiting for application startup.
+2022-01-06 08:13:21,028 Application startup complete.
+2022-01-06 08:13:43,256 Successfully retrieved  Employee Details table
+2022-01-06 08:15:14,324 Connection to database has been established successfully
+2022-01-06 08:15:14,342 Started server process [17860]
+2022-01-06 08:15:14,342 Waiting for application startup.
+2022-01-06 08:15:14,343 Application startup complete.
+2022-01-06 08:16:53,428 Connection to database has been established successfully
+2022-01-06 08:16:53,453 Started server process [1272]
+2022-01-06 08:16:53,453 Waiting for application startup.
+2022-01-06 08:16:53,454 Application startup complete.
+2022-01-06 08:19:05,971 Connection to database has been established successfully
+2022-01-06 08:19:05,993 Started server process [11360]
+2022-01-06 08:19:05,994 Waiting for application startup.
+2022-01-06 08:19:05,994 Application startup complete.
+2022-01-06 08:19:39,581 Connection to database has been established successfully
+2022-01-06 08:19:39,604 Started server process [18256]
+2022-01-06 08:19:39,604 Waiting for application startup.
+2022-01-06 08:19:39,605 Application startup complete.
+2022-01-06 08:21:36,405 Connection to database has been established successfully
+2022-01-06 08:21:36,421 Started server process [8152]
+2022-01-06 08:21:36,421 Waiting for application startup.
+2022-01-06 08:21:36,422 Application startup complete.
+2022-01-06 08:22:20,057 Connection to database has been established successfully
+2022-01-06 08:22:20,074 Started server process [14996]
+2022-01-06 08:22:20,075 Waiting for application startup.
+2022-01-06 08:22:20,075 Application startup complete.
+2022-01-06 08:35:29,675 Successfully added Employee Details into table
